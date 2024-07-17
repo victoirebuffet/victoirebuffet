@@ -1,5 +1,24 @@
-- 👋 Hi, I’m Victoire Buffet, a master's student in climate sciences. 
-- 👀 I’m interested in climate variability at different scales, climate change, atmospheric dynamics and extreme events such as atmospheric rivers. I'm also interested in developing deep learning tools for more efficient methods.
-- 🌱 I'm learning to code better and I'm sure the creation of this github will push me to write clearer and better structured scripts.
-- 🌪 I’m looking to collaborate on climate scripts, or even other fun data processing challenges, to sharpen my skills.
-- 📫  vic.buffet@gmail.com 
+Ahoy! Welcome to my GitHub 🌊⚓️
+👋 Hi, I’m Victoire Buffet, a master's student in climate sciences.
+
+👀 Interests:
+
+Climate variability at different scales
+Climate change
+Atmospheric dynamics
+Extreme events, particularly atmospheric rivers and their impact on the Antarctic Ice Sheet
+Developing deep learning tools for more efficient methods
+🌱 Current Journey:
+
+Improving my coding skills and structuring scripts better with every commit.
+I believe this GitHub will be my compass for writing clearer and better-organized scripts.
+🌪 Looking to Collaborate:
+
+Climate science scripts
+Fun data processing challenges to sharpen my skills
+👾 Always Curious:
+
+Passionate about data science and data analytics, continually learning through @codeacademy.
+📫 Reach Me: vic.buffet@gmail.com
+
+Let's set sail on this data journey together! 🚢✨
