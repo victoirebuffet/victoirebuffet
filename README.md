@@ -1,6 +1,6 @@
 # Ahoy! Welcome to my GitHub 🌊⚓️
 
-👋 **Hi, I’m Victoire Buffet**, a master's student in climate sciences. I'm staring a PhD thesis in October at Institut des Géosciences de l'Environement (IGE) in Grenoble on Antarctic atmospheric rivers projection.
+👋 **Hi, I’m Victoire Buffet**, a PhD student in climate sciences at Institut des Géosciences de l'Environement (IGE) in Grenoble, I study Antarctic atmospheric rivers projection.
 
 ### 🌟 **Interests**:
 - Climate variability at different scales
